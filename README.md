@@ -3,3 +3,5 @@
 
 
 **Visit our website at:**
+
+[TinyURL.com/2024SUEyegazeResearch](https://spammusubi153.github.io/SUEyegazeResearch/)
