@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "References"
+title: "C.A.S.E. References"
 permalink: /references/
 ---
 
