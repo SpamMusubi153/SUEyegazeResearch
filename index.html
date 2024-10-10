@@ -12,7 +12,7 @@ title: 2024 Seattle University Eye Gaze Research
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta name="theme-color" content="#157878">
     <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
-    <link rel="stylesheet" href="{{ '/assets/css/style.css?v=' }}">
+    <link rel="stylesheet" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}">
     {% include head-custom.html %}
   </head>
   <!-- <body onload="brython()"> -->
@@ -39,6 +39,9 @@ title: 2024 Seattle University Eye Gaze Research
     <main id="content" class="main-content" role="main">
 
       <h3>Welcome!</h3>
+
+      <p>Read a pre-print copy of our CASE paper <a href="{{ site.links.paper_link }}"><strong>here</strong></a>!</p>
+
       <p>We're working on wrapping up our research and will get to sharing it here in a bit when time permits.</p>
       <p>In the meantime, take a look at our students' <strong>reflections and comments</strong>:</p>
       <li>Max Tran's <a href="{{ site.links.research_comments_link }}">Research Reflection and Comments</a></li>
