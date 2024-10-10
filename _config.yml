@@ -3,3 +3,5 @@ plugins:
 - jekyll-remote-theme
 
 title: 2024 Seattle University Eye Gaze Research
+
+baseurl: https://spammusubi153.github.io/SUEyegazeResearch/
