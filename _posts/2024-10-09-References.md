@@ -1,14 +1,12 @@
 ---
-
 layout: page
 title: "References"
 permalink: /references/
-
 ---
 
 **References Cited in the CASE Paper**
 
-{% raw %}
+```
 [1]	P. Pathirana, S. Senarath, D. Meedeniya, and S. Jayarathna, “Eye gaze estimation: A survey on deep learning-based approaches,” Expert Syst. Appl., vol. 199, p. 116894, Aug. 2022, doi: 10.1016/j.eswa.2022.116894.
 
 [2]	Elvesjo John, Skogo Marten, and Gunnar Elvers, “Method and installation for detecting and following an eye and the gaze direction thereof,” 7572008, Jun. 03, 2004
@@ -43,4 +41,4 @@ permalink: /references/
 
 [15]	A. Ruzzi et al., “GazeNeRF: 3D-Aware Gaze Redirection with Neural Radiance Fields,” in 2023 IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), Vancouver, BC, Canada: IEEE, Jun. 2023, pp. 9676–9685. doi: 10.1109/CVPR52729.2023.00933.
 
-{% endraw %}
+```
