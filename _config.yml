@@ -4,7 +4,8 @@ plugins:
 
 title: 2024 Seattle University Eye Gaze Research
 
-baseurl: https://spammusubi153.github.io/SUEyegazeResearch/
+url: https://spammusubi153.github.io
+baseurl: /SUEyegazeResearch
 
 links:
   paper_link: https://cloud.maxopolyworldnews.com/index.php/s/S7Dy98SY9k5P3Jz
