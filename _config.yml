@@ -10,4 +10,11 @@ baseurl: /SUEyegazeResearch
 links:
   paper_link: https://cloud.maxopolyworldnews.com/index.php/s/S7Dy98SY9k5P3Jz
   research_comments_link: https://cloud.maxopolyworldnews.com/index.php/s/KcrFAPJ8PtezgTt
-  
+
+
+
+defaults:
+  - scope:
+      path: "assets/img"
+    values:
+      image: true
